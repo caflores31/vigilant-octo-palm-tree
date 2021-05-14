@@ -1,0 +1,19 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "\"Management employee tool that can provide important employee information such as departments,roles, and employees\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caflores31/vigilant-octo-palm-tree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caflores31/vigilant-octo-palm-tree/issues"
+  },
+  "homepage": "https://github.com/caflores31/vigilant-octo-palm-tree#readme"
+}
